@@ -1,2 +1,5 @@
-Le lion est un félidé. Il est considéré comme le roi des animaux.
+L'éléphant est un pachyderme. Il est considéré comme le roi des animaux.
+Il aime l'eau.
 Il vit principalement dans des zones arides telles que la savane.
+Il se fait chasser pour son ivoire.
+
